@@ -37,4 +37,10 @@ margin-left: 50px;
     }#show{
         width: 600px;
         height: 550px;
+    }button{
+
+        background-color: green;
+
+        color: white;
+
     }
